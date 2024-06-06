@@ -1,7 +1,7 @@
 ---
 author: "The Homeland Herald"
 title: "Recycler Blamed for Warden Attack"
-date: "2022-12-28"
+date: "2024-06-06"
 description: "Recycler blamed for warden attack in Cubiza that killed 1"
 tags: ["Homeland Herald", "Attack"]
 categories: ["Report"]
